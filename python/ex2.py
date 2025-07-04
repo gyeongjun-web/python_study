@@ -4,3 +4,4 @@ P=int(input('y:'))
 W=int(input('z:'))
 a=(C*2+P*4+W*4)
 print(message%(C,P,W,a))
+
